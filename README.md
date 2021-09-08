@@ -16,7 +16,7 @@
     </thead>
     <tbody> 
         <tr>
-            <td>Tour-Places</td>
+            <td>School Project</td>
             <td><a href="https://github.com/E-Ozdemir/Bootstrap-Last-Project.git" target="_blank">Repo details</a></td>
             <td><a href="https://e-ozdemir.github.io/Bootstrap-Last-Project/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="https://github.com/E-Ozdemir/Bootstrap-Last-Project/blob/master/bootstrap%20project.gif" alt="html" height=130></td> 
